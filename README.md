@@ -1,5 +1,5 @@
 # Tetris
-#### _A Javascript game_
+#### Introducción
 Este juego está realizado en vanilla Javascript y aún sigue en construcción. Aún así al día de la fecha es jugable, aunque falten agregar funcionalidades.
 
 #### Características:
